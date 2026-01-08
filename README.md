@@ -18,9 +18,6 @@ Tahapan utama dalam sistem ini meliputi:
 🛠️ Teknologi & Library
 - Node.js
 - Gemini AI
-- Pandas & NumPy (opsional untuk analisis data)
-- Scikit-learn (opsional untuk analisis kata kunci)
-- Markdown
 
 📂 Algoritma & Analisis
 - Analisis kata kunci dan skill CV untuk menilai relevansi posisi
