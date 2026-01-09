@@ -1,0 +1,6 @@
+
+{
+  "name": "Smart Resume Analyzer",
+  "description": "An AI-powered professional system to analyze CVs, extract skills, and calculate job match scores using the Gemini API.",
+  "requestFramePermissions": []
+}
